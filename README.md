@@ -46,7 +46,7 @@ We can identify the outliers like the unique cryptocurrency in the class #2.
 
 #### Tradable Cryptocurrencies Table
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/101307931-41d35a80-380e-11eb-942f-7a8f23887d05.png"> 
+    <img src=""> 
 </p>
 Most of the cryptocurrencies are part of class #0 and #1.<br>
 The snapshot above shows that BitTorrent is the only cryptocurrency in class #2.
