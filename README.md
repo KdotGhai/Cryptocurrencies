@@ -48,15 +48,15 @@ We can identify the outliers like the unique cryptocurrency in the class #2.
 <p align="center">
     <img src="https://github.com/KdotGhai/Cryptocurrencies/blob/4a208f49edb2fc13a814b2569f971694e893cac5/Images/tradable%20cryptocurrencies.png"> 
 </p>
-Most of the cryptocurrencies are part of class #0 and #1.<br>
-The snapshot above shows that BitTorrent is the only cryptocurrency in class #2.
+Most of the cryptocurrencies are part of class #0 and #3.<br>
+
 <br><br>
 
 #### 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
 <p align="center">
     <img src="https://github.com/KdotGhai/Cryptocurrencies/blob/4a208f49edb2fc13a814b2569f971694e893cac5/Images/hvplot.png"> 
 </p>
-&nbsp;&nbsp;&nbsp;&nbsp;Plotting the scatter plot from two cryptocurrency features directly does not efficiently segregate the different classes. Then using the PCA algorithm is the right method for better visualizations.
+&nbsp;&nbsp;&nbsp;&nbsp;Plotting the scatter plot from two cryptocurrency features directly does not efficiently segregate the different classes. Then using the PCA algorithm is the right method for better visualizations. The snapshot above shows that BitTorrent is the only cryptocurrency in class #2.
 <br><br>
 
 ## Summary
